@@ -1,21 +1,21 @@
-<div style="text-align:center;">
+<div align="center">
 <img src="./public/readme-gif.gif">
 </div>
 
 # 📱 Ivangélica
 
-Projeto pessoal para traticar a tecnologia React. Inspirado na melhor humorista da Serra Gaúcha: Ivangélica.
+Projeto pessoal para traticar a tecnologia React que consome dados de um Google Sheets através de API. Inspirado na melhor humorista da Serra Gaúcha: Ivangélica.
 
-<a target="_blank" href="https://www.instagram.com/ivangelica__//">Confira o Instagram Oficial 📱</a> <br>
-<a target="_blank" href="https://flic.kr/s/aHBqjCwg68">Veja fotos do Projeto 📸</a>
+<a target="_blank" href="https://www.instagram.com/ivangelica__//">Confira o Instagram Oficial da Ivangélica 📱</a> <br>
+<a target="_blank" href="https://flic.kr/s/aHBqjCwBLS">Veja fotos do Projeto 📸</a>
 
 # 🚀 Tecnologias Utilizadas
 FrontEnd: HTML, CSS, Javascript e React.
 
 Principais funções utilizadas:
-- React: Organização do Projto;
 - Design: Adaptação de Imagens e gifs;
-- API Formulário Google;
+- React: Organização do Projto;
+- Dados: API Formulário Google;
 
 # 👨‍💻 Desenvolvedor
 
