@@ -4,7 +4,7 @@ import Background from '../../assets/bg1.png'
 export const Main = styled.main`
   width: 100vw;
   height: auto;
-  min-height: 60vh;
+  min-height: 93vh;
   background: url(${Background}) no-repeat center;
   background-size: cover;
     @media (max-width: 768px) {

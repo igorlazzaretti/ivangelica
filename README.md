@@ -30,6 +30,6 @@ Este projeto está licenciado sob a **MIT License**, permitindo uso, cópia e mo
 ###
 
 <!--
-:iphone: Ivangélica
-First Commit: Readme, Assets e Home
+:iphone: Ivangélica Google API
+Update: Footer, Name Change, React Icons
  -->
